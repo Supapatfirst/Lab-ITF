@@ -1,4 +1,5 @@
 #ITF-Lab 2018
 
+
 ##Author
-Supapat Phurivitwattana
+นาย ศุภพัฒน์ ภูริวิทย์วัฒนา
